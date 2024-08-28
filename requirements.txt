@@ -1,2 +1,7 @@
 streamlit
-openai
+PyPDF2==3.0.0
+cohere
+langchain 
+langchain-cohere
+pytesseract
+pdf2image
