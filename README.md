@@ -2,7 +2,7 @@
 
 A simple Streamlit app that answers questions about an uploaded document via Cohere.
 
-[![Open in Streamlit](https://document-app-cjtvq58v1c5.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-app-cjtvq58v1c5.streamlit.app/)
 
 ### How to run it on your own machine
 
