@@ -53,7 +53,7 @@ else:
     # Ask the user for a question via `st.text_area`.
     question = st.text_area(
         "Now ask a question about the document!",
-        placeholder="CGive me an entire passenger detail along with the flight details.",
+        placeholder="Give me all passenger detail along with the flight details.",
         disabled=not uploaded_file,
     )
     
